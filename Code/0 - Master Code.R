@@ -1,6 +1,6 @@
 #0 - Set work directory
-    setwd("/misc/utopia3/bda13/lanhome/Data/Shared/Tanzania/Code") 
-    #setwd("C:/Users/bda13/Desktop/Tanzania")
+    setwd("hidden") 
+
 #1 - Set necessary custom options for analysis
     options<-data.frame(
     Camps="not 29",  #Alternatives = "not 29", "All", or "Control"
@@ -70,14 +70,5 @@
         source("mod.3hiv - Create effects for algorithm.R")
         source("mod.4 - Create save results function.R")
         file.edit("mod.5 - Run models.R")
-        
-    #5. visualizations
-        #source("mod.6 - Run GOF.R")
-        file.edit("xap.1 - Run by camp.R")
-        file.edit("xap.2 - Find Outliers.R")
-        file.edit("xap.3 - Run Multiple Models.R")
-        file.edit("xap.3 - Figures.R")
-        file.edit("xap.4 - Other.R")
-        file.edit("xap.5 - Other2.R")
-        browseURL(htmlfilename)
+
 
