@@ -1,7 +1,7 @@
 ADHD Peer Influence
 =====
 <p align="center">
-  <img src="./Images/Figure.png" width="400">
+  <img src="./Images/Figure.png" height="400">
 </p>
 
 About
