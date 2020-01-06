@@ -1,5 +1,5 @@
 #0 - Set work directory
-    setwd("/misc/utopia3/bda13/lanhome/Data/Shared/Tanzania/Code") #Alternatives: setwd("C:/Users/bda13/Desktop/Sociology/Papers in Progress/Tanzania/Code")
+    setwd("/misc/utopia3/bda13/lanhome/Data/Shared/Tanzania/Code") 
     #setwd("C:/Users/bda13/Desktop/Tanzania")
 #1 - Set necessary custom options for analysis
     options<-data.frame(
@@ -56,7 +56,7 @@
     #         source("modf.3 - Create effects for algorithm.R")
     #         source("mod.4 - Create save results function.R")
     #         source("modf.5 - Find good camps.R")
-    # 
+     
     #3. Create full model for IPV
         source("prep.1 - Load libraries.R")
         file.edit("mod.1 - Load and create RSiena objects.R")
