@@ -1,0 +1,34 @@
+
+
+-----------------------------------
+New Analysis started.
+Date and time: 27/08/2020 18:13:19
+New results follow.
+-----------------------------------
+
+RSienaTest version 1.2-25 (08 Apr 20) R-forge revision: 348 
+
+
+@1
+Estimation by stochastic approximation algorithm.
+=================================================
+
+Random initialization of random number stream.
+Current random number seed is 887271.
+
+
+-----------------------------------
+New Analysis started.
+Date and time: 27/08/2020 18:13:21
+New results follow.
+-----------------------------------
+
+RSienaTest version 1.2-25 (08 Apr 20) R-forge revision: 348 
+
+
+@1
+Estimation by stochastic approximation algorithm.
+=================================================
+
+Random initialization of random number stream.
+Current random number seed is 885284.
